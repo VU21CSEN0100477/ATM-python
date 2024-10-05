@@ -1,0 +1,20 @@
+Transaction TYPE
+ 
+Withdrawal: 3000
+Transfer: 1000
+Withdrawal: 20000
+Deposit: 5000
+Deposit: 1000
+Deposit: 1000
+Withdrawal: 1000
+Withdrawal: 900
+Deposit: 500
+Deposit: 500
+Withdrawal: 100
+Deposit: 100
+Deposit: 1000
+Withdrawal: 100
+Withdrawal: 100Deposit: 100
+Withdrawal: 100
+Deposit: 1000
+Deposit: 10

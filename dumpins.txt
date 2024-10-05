@@ -1,0 +1,9 @@
+1111,1500,Michael,Paris,Red
+1245,2000,Sarah,London,Green
+1246,4000,David,Tokyo,Yellow
+1247,3000,Emma,Berlin,Orange
+1248,6000,James,Moscow,Black
+1249,5000,Emily,Beijing,White
+1212,9000,Alex,Sydney,Purple
+1252,10000,Sophia,Rome,Pink
+1211,1900,Daniel,Mumbai,Brown
